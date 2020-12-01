@@ -1,0 +1,22 @@
+{
+  "name": "merge-pdfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/portarto/merge-pdfs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/portarto/merge-pdfs/issues"
+  },
+  "homepage": "https://github.com/portarto/merge-pdfs#readme",
+  "dependencies": {
+    "pdf-merger-js": "~3.0.5"
+  }
+}
